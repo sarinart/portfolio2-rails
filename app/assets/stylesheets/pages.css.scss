@@ -149,7 +149,7 @@ body {
 }
 
 @media (orientation: portrait) {
-	HTML {
-  	height: 100%;
+	.nav li a {
+  	font-size: 30px;
   }
 }
