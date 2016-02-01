@@ -148,8 +148,8 @@ body {
   }
 }
 
-@media (orientation: portrait) {
+@media (orientation: portrait), (max-device-width {
 	.nav li a {
-  	font-size: 30px;
+  	
   }
 }
